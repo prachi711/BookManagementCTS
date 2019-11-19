@@ -4,9 +4,19 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Welcome User</title>
 </head>
 <body>
-books page
+
+<form action="addBook.htm">
+<input type="submit" value="Add Book">
+</form>
+<br>
+<br>
+<form action="viewBook.htm">
+<input type="submit" value="View Book">
+
+</form>
+
 </body>
 </html>
